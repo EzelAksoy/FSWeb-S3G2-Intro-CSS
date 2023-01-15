@@ -1,0 +1,120 @@
+* {
+  font-family: "Roboto Mono";
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 715px;
+
+  margin: 0 auto;
+}
+header {
+  padding: 20px;
+}
+
+header nav a {
+  background-color: #5ed3eb;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  margin: 10px 7%;
+  display: inline-block;
+  width: 12%;
+  text-align: center;
+  min-height: 25px;
+  vertical-align: middle;
+  font-size: 70%;
+}
+nav a:first-child {
+  background-color: #ff764e;
+}
+nav a:last-child {
+  background-color: #ffcd69;
+}
+.main-image {
+  display: inline-block;
+  width: 30%;
+}
+.main-text {
+  display: inline-block;
+  width: 65%;
+  text-align: center;
+  vertical-align: top;
+  font-size: 75%;
+}
+.main-image img {
+  width: 90%;
+  border-radius: 80%;
+}
+.main-container {
+  width: 755px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: "Chelsea Market";
+}
+.section-container {
+  width: 755px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: #ddb9a3;
+  font-size: 58%;
+  color: white;
+  text-align: center;
+}
+.center-container {
+  width: 755px;
+  margin: 0 auto;
+  background-color: white;
+}
+.section-image {
+  text-align: center;
+  height: 100px;
+  display: block;
+  padding: 5px;
+}
+.section-image img {
+  height: 100px;
+}
+.section-text {
+  background-color: white;
+  display: block;
+  color: black;
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
+.footer-container {
+  width: 755px;
+  background-color: #f9e7dc;
+  margin: 0 auto;
+}
+.footer-container img {
+  width: 100%;
+}
+.footer-nav a {
+  background-color: #5ed3eb;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  margin: 10px 7%;
+  display: inline-block;
+  width: 12%;
+  text-align: center;
+  min-height: 25px;
+  vertical-align: middle;
+  font-size: 100%;
+}
+.footer-nav a:first-child {
+  background-color: #ff764e;
+}
+.footer-nav a:last-child {
+  background-color: #ffcd69;
+}
